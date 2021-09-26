@@ -1,5 +1,5 @@
 body {
-  font-family: 'Spectral', serif;
+  font-family: "Spectral", serif;
   height: 100vh;
   /* font-family: 'Roboto', sans-serif; */
 }
@@ -16,9 +16,9 @@ body {
 .altered-background .navbar-nav .nav-item .nav-link:hover {
   color: #0d4ea1;
 }
-.heading-background {
+/* .heading-background {
   height: 50vh;
-}
+} */
 .text-primary {
   color: #0d4ea1;
 }
@@ -42,4 +42,11 @@ body {
   padding: 1rem;
   margin: 3rem 0;
 }
-/*  */
+/* About Us */
+ul.about-us {
+  list-style: none;
+}
+ul.about-us li:before {
+  margin-right: 10px;
+  content: "✓";
+}

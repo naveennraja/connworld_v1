@@ -1,6 +1,9 @@
-import React from 'react';
-import ParagraphComponent from '../components/ParagraphComponent';
-import CircleComponent from '../components/UIComponent/CircleComponent/CircleComponent';
+import React from "react";
+import ParagraphComponent from "../components/ParagraphComponent";
+// import CircleComponent from "../components/UIComponent/CircleComponent/CircleComponent";
+import coreValuesImage from "../images/coreValues.png";
+
+import ImageComponent from "../components/ImageComponent";
 
 const Homepage = (props) => {
   const { contentText, coreValues } = props.contents;
@@ -8,19 +11,20 @@ const Homepage = (props) => {
     return (
       <>
         <>
-          <h3 className='display-4 text-primary w-100 text-center'>
+          {/* <h3 className="display-4 text-primary w-100 text-center">
             ConnWorld Engineering
-          </h3>
+          </h3> */}
           <ParagraphComponent text={contentText}></ParagraphComponent>
         </>
-        <h3 className='w-100 display-5 bold'>Core Value</h3>
-        <div className='row'>
-          {Object.keys(coreValues || {}).map((val) => (
+        <h3 className="w-100 display-5 bold">Core Value</h3>
+        <div className="row">
+          <ImageComponent src={coreValuesImage} title="Core Values" />
+          {/* {Object.keys(coreValues || {}).map((val) => (
             <CircleComponent
               key={val}
               text={val}
               classNames={coreValues[val]}></CircleComponent>
-          ))}
+          ))} */}
         </div>
       </>
     );
