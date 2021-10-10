@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/connworld_v1/static/css/main.aee8b74e.chunk.css",
+    "main.js": "/connworld_v1/static/js/main.fd38c08f.chunk.js",
+    "main.js.map": "/connworld_v1/static/js/main.fd38c08f.chunk.js.map",
+    "runtime-main.js": "/connworld_v1/static/js/runtime-main.057966ab.js",
+    "runtime-main.js.map": "/connworld_v1/static/js/runtime-main.057966ab.js.map",
+    "static/js/2.a5a5b6da.chunk.js": "/connworld_v1/static/js/2.a5a5b6da.chunk.js",
+    "static/js/2.a5a5b6da.chunk.js.map": "/connworld_v1/static/js/2.a5a5b6da.chunk.js.map",
+    "static/js/3.0f31964a.chunk.js": "/connworld_v1/static/js/3.0f31964a.chunk.js",
+    "static/js/3.0f31964a.chunk.js.map": "/connworld_v1/static/js/3.0f31964a.chunk.js.map",
+    "index.html": "/connworld_v1/index.html",
+    "static/css/main.aee8b74e.chunk.css.map": "/connworld_v1/static/css/main.aee8b74e.chunk.css.map",
+    "static/js/2.a5a5b6da.chunk.js.LICENSE.txt": "/connworld_v1/static/js/2.a5a5b6da.chunk.js.LICENSE.txt",
+    "static/media/capability.a86172a7.png": "/connworld_v1/static/media/capability.a86172a7.png",
+    "static/media/capabilitytable.8459c8ad.png": "/connworld_v1/static/media/capabilitytable.8459c8ad.png",
+    "static/media/connworldLogo.16a2ffe3.png": "/connworld_v1/static/media/connworldLogo.16a2ffe3.png",
+    "static/media/coreValues.5f2447cf.png": "/connworld_v1/static/media/coreValues.5f2447cf.png",
+    "static/media/digitalMicrometers.20ac4b45.jpeg": "/connworld_v1/static/media/digitalMicrometers.20ac4b45.jpeg",
+    "static/media/digitalVerinier.4c928957.jpeg": "/connworld_v1/static/media/digitalVerinier.4c928957.jpeg",
+    "static/media/feelersGauge.1a4319f2.png": "/connworld_v1/static/media/feelersGauge.1a4319f2.png",
+    "static/media/heightGauge.6c41d4e4.jpeg": "/connworld_v1/static/media/heightGauge.6c41d4e4.jpeg",
+    "static/media/infrastructure.3494c843.jpg": "/connworld_v1/static/media/infrastructure.3494c843.jpg",
+    "static/media/newHeader.5edc49e0.png": "/connworld_v1/static/media/newHeader.5edc49e0.png",
+    "static/media/surfaceComparator.b84e5771.png": "/connworld_v1/static/media/surfaceComparator.b84e5771.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.057966ab.js",
+    "static/js/2.a5a5b6da.chunk.js",
+    "static/css/main.aee8b74e.chunk.css",
+    "static/js/main.fd38c08f.chunk.js"
+  ]
+}
