@@ -44,7 +44,7 @@ const Contact = () => {
         </div>
         <div className="col-md-6 col-xs-12 my-2">
           <iframe
-            src="http://maps.google.com/maps?q=13.268347224419331, 77.55896458199547&z=16&output=embed"
+            src="https://maps.google.com/maps?q=13.268347224419331, 77.55896458199547&z=16&output=embed"
             height="450"
             width="600"
             style={{ border: "none" }}
